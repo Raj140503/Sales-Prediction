@@ -8,3 +8,7 @@ In businesses that offer products or services, the role of a Data Scientist is c
 ```
 https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 ```
+**Usage -**
+```
+git clone https://github.com/Raj140503/Sales-Prediction
+```
